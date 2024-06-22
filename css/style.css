@@ -44,3 +44,20 @@ header {
     border: 1px solid white;
     padding: 4px;
 }
+
+.note {
+    background-color:whitesmoke;
+    padding: 20px;
+}
+
+.note-title {
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.note-content {
+    padding-left: 10px;
+    border-left: 4px solid green;
+    margin-bottom: 0px;
+    margin-left: 2px;
+}
