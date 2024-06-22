@@ -10,7 +10,8 @@
 </head>
 <body>
     <header>
-        <h1>Some heading</h1>
+        <div class="site-title">CS-Simplified</div>
+        <div class="site-info">A blog about simplifying computer science concepts/topics.</div>
     </header>
     
     

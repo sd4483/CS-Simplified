@@ -1,6 +1,8 @@
 <?php include ("header.php"); ?>
 
-<h2>Some heading on home</h2>
+<main class="page-content">
+
+</main>
 
 <?php include ("footer.php"); ?>
 

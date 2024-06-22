@@ -1,6 +1,6 @@
 <?php include ("../header.php"); ?>
 
-<main>
+<main class="post-content">
     <h1>Setting up PHP dev environment using Laravel Valet and Composer on M series MacBooks</h1>
     <p>This guide is for setting up a development environment for PHP projects using Laravel Valet and Composer on M series MacBooks.</p>
     <p>What you need for this:</p>
