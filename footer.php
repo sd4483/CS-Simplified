@@ -1,5 +1,5 @@
 <footer>
-    <p>Some footer</p>
+    <div class="footer-bar">CS-Simplified</div>
 </footer>
 </body>
 </html>
