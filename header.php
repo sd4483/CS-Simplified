@@ -14,7 +14,16 @@
             <div class="site-title">CS-Simplified</div>
             <div class="site-tagline">A blog about simplifying computer science concepts/topics.</div>
         </div>
-
+        <div class="nav-bar">
+            <nav>
+                <ul>
+                    <li>Software Testing</li>
+                    <li>Laravel</li>
+                    <li>PHP</li>
+                </ul>
+            </nav>
+        </div>
+        
     </header>
     
     
