@@ -10,8 +10,11 @@
 </head>
 <body>
     <header>
-        <div class="site-title">CS-Simplified</div>
-        <div class="site-info">A blog about simplifying computer science concepts/topics.</div>
+        <div class="site-info">
+            <div class="site-title">CS-Simplified</div>
+            <div class="site-tagline">A blog about simplifying computer science concepts/topics.</div>
+        </div>
+
     </header>
     
     
